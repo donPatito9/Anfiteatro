@@ -36,7 +36,7 @@ import java.util.Scanner;
  * - Extra : En caso que un cliente solicite visualizar cuales son los asientos disponibles
  * el sistema debe permitir mostrar en forma grafica por consola el mapa de asientos
  * recuerde no utilizar GUI para este caso, utilizar unicamente lógica y salida por consola.
- * 
+ * este caso fue desarrollado libremente en un curso de java gratuito por youtube.
  * 
  */
 public class Anfiteatro {
